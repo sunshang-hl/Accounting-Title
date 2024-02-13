@@ -16,7 +16,7 @@
 
 #### 文件链接
 
-链接: https://pan.baidu.com/s/1MajfoZC4QkHdoiaPBSJkOQ?pwd=jyua 提取码: jyua 复制这段内容后打开百度网盘手机App，操作更方便哦
+链接: https://pan.baidu.com/s/1MajfoZC4QkHdoiaPBSJkOQ?pwd=jyua 提取码: jyua 复制这段内容后打开百度网盘手机App，操作更方便哦，2023—8—23版。
 
 
 QQ群号：610959985
@@ -39,6 +39,15 @@ QQ群号：610959985
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
+
+#### 更新记录
+
+##### 2024-2-13
+
+1.  更新部分二、三、四级科目；
+2.  添加部分明细科目及辅助核算段；
+3.  添加部分科目设置的参考来源及备注
+
 
 
 #### 反馈
