@@ -18,9 +18,11 @@
 
 链接: https://pan.baidu.com/s/1MajfoZC4QkHdoiaPBSJkOQ?pwd=jyua 提取码: jyua 复制这段内容后打开百度网盘手机App，操作更方便哦，2023—8—23版。
 
-
+完整版会计科目表，会计科目明细+详情解析
 链接: https://pan.baidu.com/s/1PzMkDI5FO3cJbUS8GuD94g?pwd=8bf8 提取码: 8bf8 复制这段内容后打开百度网盘手机App，操作更方便哦，2024—2—13版。
 
+其他行业会计科目
+链接: https://pan.baidu.com/s/1II4v1SCnkMPRvy8LxsA6_g?pwd=1s4v 提取码: 1s4v 复制这段内容后打开百度网盘手机App，操作更方便哦  2024-3-13
 
 QQ群号：610959985
 
@@ -44,6 +46,13 @@ QQ群号：610959985
 4.  新建 Pull Request
 
 #### 更新记录
+
+##### 2024-3-13
+
+1.  增加其他行业会计科目；
+    工会、农村集体经济、社会保险基金、农民专用合作社、民间非盈利组织、小企业会计科目
+贡献者 https://gitee.com/lihao6222
+
 
 ##### 2024-2-13
 
